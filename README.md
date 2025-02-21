@@ -18,4 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pranavharshans&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Pranavharshans profile views](https://u8views.com/api/v1/github/profiles/133397331/views/day-week-month-total-count.svg)](https://u8views.com/github/Pranavharshans)
 
