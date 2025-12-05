@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on TinyPromise, a goal-setting app<br>Fun fact: I was fascinated by technology in grade 7, which sparked my coding journey!!
+ Experimenting with TTS models and Open source AI models <br>Fun fact: I was fascinated by technology in grade 7, which sparked my coding journey!!
 
 
 ## 🌐 Socials:
