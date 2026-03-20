@@ -1,113 +1,126 @@
-# Pranav Harshan
+# 🧠 Pranav Harshan
 
-AI Systems Builder | Speech AI | Agents | Automation
+<p align="center">
+AI Systems Builder • Speech AI • Agents • Automation
+</p>
 
-I build experimental AI systems — focusing on **speech models, LLM agents, and automation infrastructure**.
-
-Currently experimenting with:
-• Real-time **Text-to-Speech architectures**
-• **LLM based conversational agents**
-• **Autonomous workflow systems**
-• **Open-source AI models**
-
-I enjoy understanding **how models actually work under the hood**, not just using APIs.
+<p align="center">
+Exploring how intelligent systems work under the hood — from speech synthesis to autonomous agents.
+</p>
 
 ---
 
-## Current Focus
+## 🚀 About Me
 
-• Real-time conversational TTS
-• Audio tokenization & codecs
-• Agent orchestration frameworks
-• Open source model experimentation
+I build experimental AI systems focused on **speech, agents, and automation**.
 
----
+Currently exploring:
 
-## Selected Work
+* 🎙 Real-time **Text-to-Speech architectures**
+* 🤖 **LLM-based conversational agents**
+* 🔊 **Audio tokenization & codecs**
+* ⚡ **Low-latency inference systems**
+* 🔁 **Autonomous workflow automation**
 
-### Notorium
-
-AI system that converts **college lectures → structured notes automatically**
-
-Features
-• Lecture recording
-• Speech-to-text transcription
-• AI generated summaries and notes
-• Designed for university learning workflows
+I enjoy understanding **how models actually work internally**, not just calling APIs.
 
 ---
 
-### AI Research Experiments
+## 🔬 Active Experiments
 
-Independent experiments involving:
-
-• TTS architectures (flow matching / vocoders / LLM speech)
-• Model fine-tuning and evaluation
-• Speech generation latency optimization
-• Open source model testing
-
----
-
-### Autoflow (Concept)
-
-Prompt → Automation platform
-
-Goal:
-Allow non-technical users to create **complex workflows using natural language**
-
-Inspired by systems like:
-• n8n
-• workflow automation tools
-• AI agent orchestration
+| Project           | Description                                                                |
+| ----------------- | -------------------------------------------------------------------------- |
+| **Notorium**      | AI system that converts lectures → structured notes                        |
+| **Speech Lab**    | Experiments with TTS architectures (Flow Matching / LLM speech / vocoders) |
+| **Agent Systems** | Building autonomous agents and workflow automation                         |
 
 ---
 
-## Tech I Use
+## ⚡ Current Research Interests
 
-Languages
+* Real-time conversational speech synthesis
+* Audio tokenizers & codecs
+* Agent orchestration frameworks
+* Low-latency AI infrastructure
+* Open-source model experimentation
+
+---
+
+## 🛠 Tech I Use
+
+**Languages**
+
 Python • JavaScript
 
-AI / Data
+**AI / Data**
+
 PyTorch • NumPy • Pandas
 
-Web
-Next.js • Supabase • Firebase
+**Backend**
 
-Tools
-Figma • Vercel • Streamlit
+Supabase • Firebase • MySQL
 
----
+**Frontend**
 
-## Currently Learning
+Next.js • HTML • TailwindCSS
 
-• Speech model architectures
-• Audio tokenizers and codecs
-• Agent frameworks
-• AI infrastructure
+**Tools**
+
+Vercel • Streamlit • Figma
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
-Twitter/X
-https://x.com/Pranav_ai
+![](https://github-readme-stats.vercel.app/api?username=pranavharshans\&theme=tokyonight\&show_icons=true\&hide_border=true)
 
-LinkedIn
-https://linkedin.com/in/pranavharshan-s
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavharshans\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharshans\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavharshans\&theme=tokyo-night)](https://github.com/pranavharshans)
+
+---
+
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=pranavharshans\&theme=tokyonight\&no-frame=true\&margin-w=8)
+
+---
+
+## 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=pranavharshans\&color=blueviolet)
+
+---
+
+## 🌐 Connect With Me
 
 Instagram
 https://instagram.com/pranavharshan
 
+LinkedIn
+https://linkedin.com/in/pranavharshan-s
+
+X / Twitter
+https://x.com/Pranav_ai
+
 ---
 
-## Philosophy
+## 🧭 Philosophy
 
 Build things.
 Understand systems deeply.
 Experiment relentlessly.
 
 ---
-
-GitHub Stats
-
-<!-- your stats widgets here -->
