@@ -1,126 +1,102 @@
-# 🧠 Pranav Harshan
+<h1 align="center">Pranav Harshan</h1>
 
 <p align="center">
-AI Systems Builder • Speech AI • Agents • Automation
+AI Systems Engineer • Speech AI • Autonomous Agents
 </p>
 
 <p align="center">
-Exploring how intelligent systems work under the hood — from speech synthesis to autonomous agents.
+Building low-latency intelligent systems across speech synthesis, agent orchestration, and inference infrastructure.
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I build experimental AI systems focused on **speech, agents, and automation**.
+I build and experiment with AI systems focused on:
 
-Currently exploring:
+- Real-time speech synthesis
+- Conversational AI architectures
+- Autonomous agent systems
+- Inference optimization
+- Workflow automation
 
-* 🎙 Real-time **Text-to-Speech architectures**
-* 🤖 **LLM-based conversational agents**
-* 🔊 **Audio tokenization & codecs**
-* ⚡ **Low-latency inference systems**
-* 🔁 **Autonomous workflow automation**
-
-I enjoy understanding **how models actually work internally**, not just calling APIs.
+My work is centered around understanding model internals, optimizing system performance, and building production-oriented experimental AI infrastructure.
 
 ---
 
-## 🔬 Active Experiments
+## Current Focus
 
-| Project           | Description                                                                |
-| ----------------- | -------------------------------------------------------------------------- |
-| **Notorium**      | AI system that converts lectures → structured notes                        |
-| **Speech Lab**    | Experiments with TTS architectures (Flow Matching / LLM speech / vocoders) |
-| **Agent Systems** | Building autonomous agents and workflow automation                         |
+**Speech Systems**  
+Architectures for efficient real-time text-to-speech and audio generation.
 
----
+**Agent Infrastructure**  
+LLM-powered autonomous systems for task orchestration and automation.
 
-## ⚡ Current Research Interests
-
-* Real-time conversational speech synthesis
-* Audio tokenizers & codecs
-* Agent orchestration frameworks
-* Low-latency AI infrastructure
-* Open-source model experimentation
+**Inference Engineering**  
+Latency optimization, model compression, and deployment efficiency.
 
 ---
 
-## 🛠 Tech I Use
+## Selected Projects
 
-**Languages**
+### Notorium
+AI lecture intelligence system that transforms spoken lectures into structured notes and learning artifacts.
 
+### Speech Research
+Experiments in TTS architectures, audio tokenization, codec modeling, and streaming inference.
+
+### Agent Systems
+Autonomous workflow execution systems for automation and reasoning pipelines.
+
+---
+
+## Technical Stack
+
+**Core**  
 Python • JavaScript
 
-**AI / Data**
-
+**ML / AI**  
 PyTorch • NumPy • Pandas
 
-**Backend**
-
+**Backend / Infra**  
 Supabase • Firebase • MySQL
 
-**Frontend**
+**Frontend**  
+Next.js • TailwindCSS
 
-Next.js • HTML • TailwindCSS
-
-**Tools**
-
-Vercel • Streamlit • Figma
+**Deployment / Tooling**  
+Vercel • Streamlit • GitHub Actions
 
 ---
 
-## 📊 GitHub Stats
+## Research Interests
 
-![](https://github-readme-stats.vercel.app/api?username=pranavharshans\&theme=tokyonight\&show_icons=true\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranavharshans\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharshans\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavharshans\&theme=tokyo-night)](https://github.com/pranavharshans)
+- Real-time speech generation
+- Audio tokenization
+- Flow-matching architectures
+- LLM-based speech systems
+- Agent orchestration frameworks
+- Efficient inference systems
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=pranavharshans\&theme=tokyonight\&no-frame=true\&margin-w=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavharshans&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
 
----
-
-## 💭 Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=pranavharshans\&color=blueviolet)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharshans&layout=compact&hide_border=true&theme=github_dark" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-Instagram
-https://instagram.com/pranavharshan
-
-LinkedIn
-https://linkedin.com/in/pranavharshan-s
-
-X / Twitter
-https://x.com/Pranav_ai
+- LinkedIn: linkedin.com/in/pranavharshan-s
+- X: x.com/Pranav_ai
 
 ---
 
-## 🧭 Philosophy
-
-Build things.
-Understand systems deeply.
-Experiment relentlessly.
-
----
+> Build deeply. Understand systems. Optimize relentlessly.
